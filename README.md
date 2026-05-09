@@ -154,5 +154,4 @@ Python | Pandas | NumPy | SQL | MySQL | Power BI | DAX | GitHub
 
 # Author
 
-Shwathi R M
-Analyst | Data Analytics Enthusiast
+Shwathi R M | Analyst | Data Analytics Enthusiast
