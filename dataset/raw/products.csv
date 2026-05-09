@@ -1,0 +1,121 @@
+product_id,product_name,category,brand,price,cost_price
+1,Lakme Cleanser,Skincare,Lakme,1203,610
+2,Maybelline Cleanser,Skincare,Maybelline,585,262
+3,L'Oreal Cleanser,Skincare,L'Oreal,1026,416
+4,Nykaa Cleanser,Skincare,Nykaa,659,407
+5,Mamaearth Cleanser,Skincare,Mamaearth,468,216
+6,Minimalist Cleanser,Skincare,Minimalist,244,140
+7,Biotique Cleanser,Skincare,Biotique,546,238
+8,WOW Skin Science Cleanser,Skincare,WOW Skin Science,1656,985
+9,Plum Cleanser,Skincare,Plum,276,141
+10,Sugar Cosmetics Cleanser,Skincare,Sugar Cosmetics,1511,720
+11,Lakme Serum,Skincare,Lakme,1295,760
+12,Maybelline Serum,Skincare,Maybelline,1416,988
+13,L'Oreal Serum,Skincare,L'Oreal,1555,672
+14,Nykaa Serum,Skincare,Nykaa,240,99
+15,Mamaearth Serum,Skincare,Mamaearth,437,229
+16,Minimalist Serum,Skincare,Minimalist,978,427
+17,Biotique Serum,Skincare,Biotique,717,388
+18,WOW Skin Science Serum,Skincare,WOW Skin Science,513,236
+19,Plum Serum,Skincare,Plum,1604,944
+20,Sugar Cosmetics Serum,Skincare,Sugar Cosmetics,816,429
+21,Lakme Moisturizer,Skincare,Lakme,406,243
+22,Maybelline Moisturizer,Skincare,Maybelline,752,441
+23,L'Oreal Moisturizer,Skincare,L'Oreal,1635,721
+24,Nykaa Moisturizer,Skincare,Nykaa,414,229
+25,Mamaearth Moisturizer,Skincare,Mamaearth,1465,637
+26,Minimalist Moisturizer,Skincare,Minimalist,433,275
+27,Biotique Moisturizer,Skincare,Biotique,1219,560
+28,WOW Skin Science Moisturizer,Skincare,WOW Skin Science,609,385
+29,Plum Moisturizer,Skincare,Plum,1271,879
+30,Sugar Cosmetics Moisturizer,Skincare,Sugar Cosmetics,933,570
+31,Lakme Sunscreen,Skincare,Lakme,804,360
+32,Maybelline Sunscreen,Skincare,Maybelline,1322,725
+33,L'Oreal Sunscreen,Skincare,L'Oreal,625,379
+34,Nykaa Sunscreen,Skincare,Nykaa,1184,591
+35,Mamaearth Sunscreen,Skincare,Mamaearth,205,82
+36,Minimalist Sunscreen,Skincare,Minimalist,382,256
+37,Biotique Sunscreen,Skincare,Biotique,1375,825
+38,WOW Skin Science Sunscreen,Skincare,WOW Skin Science,505,345
+39,Plum Sunscreen,Skincare,Plum,1796,994
+40,Sugar Cosmetics Sunscreen,Skincare,Sugar Cosmetics,1681,1037
+41,Lakme Lipstick,Makeup,Lakme,724,429
+42,Maybelline Lipstick,Makeup,Maybelline,1135,790
+43,L'Oreal Lipstick,Makeup,L'Oreal,806,386
+44,Nykaa Lipstick,Makeup,Nykaa,302,129
+45,Mamaearth Lipstick,Makeup,Mamaearth,557,368
+46,Minimalist Lipstick,Makeup,Minimalist,795,403
+47,Biotique Lipstick,Makeup,Biotique,1586,783
+48,WOW Skin Science Lipstick,Makeup,WOW Skin Science,1712,744
+49,Plum Lipstick,Makeup,Plum,1752,1168
+50,Sugar Cosmetics Lipstick,Makeup,Sugar Cosmetics,219,143
+51,Lakme Foundation,Makeup,Lakme,1558,925
+52,Maybelline Foundation,Makeup,Maybelline,873,442
+53,L'Oreal Foundation,Makeup,L'Oreal,1096,752
+54,Nykaa Foundation,Makeup,Nykaa,749,496
+55,Mamaearth Foundation,Makeup,Mamaearth,390,199
+56,Minimalist Foundation,Makeup,Minimalist,901,409
+57,Biotique Foundation,Makeup,Biotique,1020,530
+58,WOW Skin Science Foundation,Makeup,WOW Skin Science,1134,546
+59,Plum Foundation,Makeup,Plum,989,600
+60,Sugar Cosmetics Foundation,Makeup,Sugar Cosmetics,1179,754
+61,Lakme Kajal,Makeup,Lakme,1528,1017
+62,Maybelline Kajal,Makeup,Maybelline,541,234
+63,L'Oreal Kajal,Makeup,L'Oreal,1625,1004
+64,Nykaa Kajal,Makeup,Nykaa,526,226
+65,Mamaearth Kajal,Makeup,Mamaearth,1409,767
+66,Minimalist Kajal,Makeup,Minimalist,1365,823
+67,Biotique Kajal,Makeup,Biotique,571,333
+68,WOW Skin Science Kajal,Makeup,WOW Skin Science,1795,911
+69,Plum Kajal,Makeup,Plum,259,170
+70,Sugar Cosmetics Kajal,Makeup,Sugar Cosmetics,1689,1168
+71,Lakme Compact,Makeup,Lakme,467,254
+72,Maybelline Compact,Makeup,Maybelline,1199,520
+73,L'Oreal Compact,Makeup,L'Oreal,1042,554
+74,Nykaa Compact,Makeup,Nykaa,329,157
+75,Mamaearth Compact,Makeup,Mamaearth,843,340
+76,Minimalist Compact,Makeup,Minimalist,1588,885
+77,Biotique Compact,Makeup,Biotique,1722,986
+78,WOW Skin Science Compact,Makeup,WOW Skin Science,1357,633
+79,Plum Compact,Makeup,Plum,1571,1039
+80,Sugar Cosmetics Compact,Makeup,Sugar Cosmetics,1263,703
+81,Lakme Shampoo,Haircare,Lakme,1634,956
+82,Maybelline Shampoo,Haircare,Maybelline,1086,649
+83,L'Oreal Shampoo,Haircare,L'Oreal,709,386
+84,Nykaa Shampoo,Haircare,Nykaa,1559,939
+85,Mamaearth Shampoo,Haircare,Mamaearth,988,439
+86,Minimalist Shampoo,Haircare,Minimalist,1343,896
+87,Biotique Shampoo,Haircare,Biotique,1455,605
+88,WOW Skin Science Shampoo,Haircare,WOW Skin Science,1517,1032
+89,Plum Shampoo,Haircare,Plum,1235,808
+90,Sugar Cosmetics Shampoo,Haircare,Sugar Cosmetics,1215,802
+91,Lakme Conditioner,Haircare,Lakme,353,220
+92,Maybelline Conditioner,Haircare,Maybelline,856,404
+93,L'Oreal Conditioner,Haircare,L'Oreal,769,319
+94,Nykaa Conditioner,Haircare,Nykaa,656,370
+95,Mamaearth Conditioner,Haircare,Mamaearth,975,507
+96,Minimalist Conditioner,Haircare,Minimalist,681,288
+97,Biotique Conditioner,Haircare,Biotique,1109,710
+98,WOW Skin Science Conditioner,Haircare,WOW Skin Science,1117,476
+99,Plum Conditioner,Haircare,Plum,1220,651
+100,Sugar Cosmetics Conditioner,Haircare,Sugar Cosmetics,443,307
+101,Lakme Hair Oil,Haircare,Lakme,1726,1028
+102,Maybelline Hair Oil,Haircare,Maybelline,410,213
+103,L'Oreal Hair Oil,Haircare,L'Oreal,273,154
+104,Nykaa Hair Oil,Haircare,Nykaa,200,129
+105,Mamaearth Hair Oil,Haircare,Mamaearth,1437,990
+106,Minimalist Hair Oil,Haircare,Minimalist,1505,739
+107,Biotique Hair Oil,Haircare,Biotique,1241,705
+108,WOW Skin Science Hair Oil,Haircare,WOW Skin Science,1540,926
+109,Plum Hair Oil,Haircare,Plum,898,457
+110,Sugar Cosmetics Hair Oil,Haircare,Sugar Cosmetics,311,200
+111,Lakme Hair Mask,Haircare,Lakme,1130,564
+112,Maybelline Hair Mask,Haircare,Maybelline,1771,1037
+113,L'Oreal Hair Mask,Haircare,L'Oreal,1168,718
+114,Nykaa Hair Mask,Haircare,Nykaa,944,580
+115,Mamaearth Hair Mask,Haircare,Mamaearth,433,185
+116,Minimalist Hair Mask,Haircare,Minimalist,1549,722
+117,Biotique Hair Mask,Haircare,Biotique,899,455
+118,WOW Skin Science Hair Mask,Haircare,WOW Skin Science,1497,1031
+119,Plum Hair Mask,Haircare,Plum,797,449
+120,Sugar Cosmetics Hair Mask,Haircare,Sugar Cosmetics,965,589
